@@ -1,0 +1,28 @@
+name: Mojo Solo
+favicon: null
+layout_spectrum: 0.14295733743347228
+typography_spectrum: 0.1138471127487719
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.3446344858966768
+  lightness: 0.26846035313792527
+  saturation: 0.44412561133503914
+  rhythmicContrast: 0.5218986212275922
+purpose: []
